@@ -1,2 +1,2 @@
 # printf
-Pair Programming project
+Pair Programming Project
