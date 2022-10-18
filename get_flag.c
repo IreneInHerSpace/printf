@@ -12,6 +12,7 @@
 int get_flag(char s, flags_t *f)
 {
 	int i = 0;
+
 	switch (s)
 	{
 		case '+':
